@@ -4,19 +4,36 @@
 
 This repository contains Verilog HDL implementations developed as part of the RTL Design and FPGA Synthesis Laboratory using Xilinx Vivado targeting the Basys-3 FPGA.
 
-The repository covers combinational and sequential digital circuit design, behavioral and structural modeling, simulation, synthesis, timing analysis, and post-implementation verification.
+The repository demonstrates structural and behavioral modeling, combinational and sequential circuit design, functional simulation, timing analysis, and FPGA synthesis.
 
-## Tools
+## Tools Used
 
 - Verilog HDL
 - Xilinx Vivado
 - Basys-3 FPGA
 
-## Laboratory Experiments
+## Contents
 
-- Structural Modeling
-- Advanced Adder Architectures
-- Behavioral Modeling – I
-- Behavioral Modeling – II
-- FSM Sequence Detector
-- FSM Alarm Design
+- Lab 01 – Structural Modeling
+- Lab 02 – Advanced Adders
+- Lab 03 – Behavioral Modeling I
+- Lab 04 – Behavioral Modeling II
+- Lab 05 – FSM Sequence Detector
+- Lab 06 – FSM Alarm Design
+
+## Repository Structure
+
+Each lab contains:
+- RTL source code
+- Testbench
+- Simulation results
+- Schematics
+- Timing results
+
+## Learning Outcomes
+
+- Structural Verilog design
+- Behavioral Verilog design
+- Finite State Machine (FSM) design
+- Simulation and verification
+- FPGA implementation using Vivado
